@@ -1,20 +1,22 @@
-# Android Project 5 - *Sleep Tracker*
+# Android Project 6 - *Sleep Tracker*
 
 Submitted by: **Sahil Parmar**
 
-**Sleep Tracker** is a health metrics app that allows users to track their sleep (date, hours, rating, notes).
+**Sleep Tracker** is a health metrics app that allows users to track their sleep quality.
 
-Time spent: **3** hours spent in total
+Time spent: **2** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [x] **At least one health metric is tracked (based on user input)**
-  - Chosen metric(s): `Sleep`
-- [x] **There is a "create entry" UI that prompts users to make their daily entry**
-- [x] **New entries are saved in a database and then updated in the RecyclerView**
-- [x] **On application restart, previously entered entries are preserved (i.e., are *persistent*)**
+- [x] **Use at least 2 Fragments**
+- [x] **Create a new dashboard fragment where users can see a summary of their entered data**
+- [x] **Use one of the Navigation UI Views (BottomNavigation, Drawer Layout, Top Bar) to move between the fragments**
 
 ## Video Walkthrough
-![2026-03-01 21-28-28 (online-video-cutter com) (1)](https://github.com/user-attachments/assets/8633b732-48d2-44a3-9939-ea17408888ff)
+
+Here's a walkthrough of implemented user stories:
+
+![2026-03-09 13-55-51 (online-video-cutter com)](https://github.com/user-attachments/assets/88b46b8d-d336-4144-9c00-89887e94fa0a)
+
